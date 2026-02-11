@@ -2,5 +2,27 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: "LaneyXu · Cultural Bridge"
-description: "How ancient Chinese thought & cognitive science shape cross-cultural understanding. DI China champion, cultural clubs in OR & IL, aspiring psych student."
+title: "Chinese Culture Club @ Regina Dominican"
+description: "Activity archive · Cross-cultural psychology notes · Exchange year journal"
+
+# Navigation menu
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Activity Archive"
+    url: "/archive"
+  - name: "Culture Lab"
+    url: "/notes"
+  - name: "Exchange Diary"
+    url: "/journal"
+  - name: "Monthly Survey"
+    url: "/survey"
+  - name: "About"
+    url: "/about"
+
+# Author info
+author:
+  name: "Laney Xu"
+  email: "inesqiaojia@gmail.com"
+
+github_username: laneyxu-culture
