@@ -10,7 +10,7 @@ All materials from Chinese Culture Club events (2024-2026).
 
 ---
 
-## 🧧 Spring Festival-1 (Jan 2025)
+## 🧧 Spring Festival-1 (Jan22, 2025)
 
 **Theme**: The Story of Nian · Spring Festival Customs · Arts Session 
 **Duration**: 60 min workshop
@@ -23,7 +23,7 @@ All materials from Chinese Culture Club events (2024-2026).
 
 ---
 
-## 🖌️ Spring Festival-2 (Feb 2025)
+## 🖌️ Spring Festival-2 (Feb5, 2025)
 
 **Theme**: Dumpling Philosophy · Evolution of Chinese Characters · Brush Grip · Arts Session
 **Duration**: 60 min hands-on
@@ -35,7 +35,7 @@ All materials from Chinese Culture Club events (2024-2026).
 
 ---
 
-## 🥟 My School (Mar 2025)
+## 🥟 My School (Mar12, 2025)
 
 **Theme**: Introduing Chinese Middle School · Arts Session
 **Duration**: 60 min 
@@ -46,7 +46,7 @@ All materials from Chinese Culture Club events (2024-2026).
   
 ---
 
-## 🥟 Beijing Subway (Apr 2025)
+## 🥟 Beijing Subway (Apr16, 2025)
 
 **Theme**: Introduing Beijing subway · Arts Session
 **Duration**: 60 min 
@@ -57,7 +57,7 @@ All materials from Chinese Culture Club events (2024-2026).
 
 ---
 
-## 🥟 NeZha (Apr 2025)
+## 🥟 NeZha (Apr30, 2025)
 
 **Theme**: Watching Chinese movie · Introduing Chinese ancient history
 **Duration**: 60 min 
