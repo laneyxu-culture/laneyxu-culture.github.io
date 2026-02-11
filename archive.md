@@ -27,6 +27,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🖌️ Spring Festival-2 (Feb5, 2025)
 
 **Theme**: Dumpling Philosophy · Evolution of Chinese Characters · Brush Grip · Arts Session
+
 **Duration**: 60 min hands-on
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -39,6 +40,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 My School (Mar12, 2025)
 
 **Theme**: Introduing Chinese Middle School · Arts Session
+
 **Duration**: 60 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -50,6 +52,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Beijing Subway (Apr16, 2025)
 
 **Theme**: Introduing Beijing subway · Arts Session
+
 **Duration**: 60 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -61,6 +64,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 NeZha (Apr30, 2025)
 
 **Theme**: Watching Chinese movie · Introduing Chinese ancient history
+
 **Duration**: 60 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -71,6 +75,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 the Twelve Chinese Zodiac Signs (2025)
 
 **Theme**: introducing Chinese Zodiac Signs
+
 **Duration**: 60 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -80,6 +85,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Chinese painting (Sep24, 2025)
 
 **Theme**: introducing the origin, categories, and techniques of traditiional Chinese painting · Arts Session
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -91,6 +97,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Moon Festival – Tea appreciation (Oct8, 2025)
 
 **Theme**: introducing the origin of Moon Festival · Enjoying Chinese tea
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -101,6 +108,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Martial Arts - Taiji (Oct29, 2025)
 
 **Theme**: introducing the origin of Taiji and Badaunjin · Practicing
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -111,6 +119,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Jianzi, Chinese yoyo (Nov12, 2025)
 
 **Theme**: introducing the origin of Jianzi · Playing Jianzi
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -121,6 +130,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Calligraphy, fan panting (Dec3, 2025)
 
 **Theme**: introducing the origin of Calligraphy · fan panting
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -131,6 +141,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Making Lantern (Jan7, 2026)
 
 **Theme**: introducing the history of lantern · Making Lantern
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -141,6 +152,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Paper Cutting (Jan21, 2026)
 
 **Theme**: introducing the history of Paper Cutting · Paper Cutting
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -151,6 +163,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 GO – Wei qi (Feb4, 2026)
 
 **Theme**: introducing the history of Wei · Playing Weiqi
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -161,6 +174,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Chinese new year (Feb18, 2026)
 
 **Theme**: introducing the history of Chinese new year · Making dumpling · Cosplay-Wearing Hanfu · Enjoying Chinese Cuisine · Writing "Fu" and your Chinese name 
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -171,6 +185,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Shadow Puppetry (Mar11, 2026)
 
 **Theme**: coming soon
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -181,6 +196,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Chinese Opera (Mar25, 2026)
 
 **Theme**: coming soon
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -191,6 +207,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Chinese Traditional Clothing (Apr8, 2026)
 
 **Theme**: coming soon
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -201,6 +218,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🥟 Paper folding (Apr22, 2026)
 
 **Theme**: coming soon
+
 **Duration**: 45 min 
 
 - [📎 PPT Deck (PDF)]（your-link-here）
