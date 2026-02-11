@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: "Chinese Culture Club @ Regina Dominican"
+title: "Chinese Culture Club @ SFHS"
 description: "Activity archive · Cross-cultural psychology notes · Exchange year journal"
 
 # Navigation menu
