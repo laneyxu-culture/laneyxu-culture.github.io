@@ -13,6 +13,7 @@ All materials from Chinese Culture Club events (2024-2026).
 ## 🧧 Spring Festival-1 (Jan22, 2025)
 
 **Theme**: The Story of Nian · Spring Festival Customs · Arts Session 
+
 **Duration**: 60 min workshop
 
 - [📎 PPT Deck (PDF)]（your-link-here）
@@ -207,4 +208,4 @@ All materials from Chinese Culture Club events (2024-2026).
 
 ---
 **Have materials to contribute?**  
-Contact the club or email [inesqiaojia@gmail.com].
+Contact the club or email: inesqiaojia@gmail.com
