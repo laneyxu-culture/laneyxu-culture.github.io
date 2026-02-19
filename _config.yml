@@ -1,0 +1,30 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: "Chinese Culture Club @ SFHS"
+description: "Activities · Culture Lab · Exchange Stories · My Research"
+
+# 导航栏菜单
+navbar-links:
+  Home: "/"
+  Activities: "activities"
+  Culture Lab: "culture-lab"
+  Exchange Stories: "exchange-stories"
+  My Research: "my-research"
+  About: "about"
+
+# Author info
+author:
+  name: "Laney Xu"
+  email: "inesqiaojia@gmail.com"
+
+github_username: laneyxu-culture
+
+# 活动预告配置（每两周更新一次）
+next_event_title: "Shadow Puppetry (皮影戲)"
+next_event_date: "3/11/2026"
+next_event_time: "2:35pm"
+next_event_poster: "/assets/img/posters/20260311皮影戲海報.jpg"
+next_event_description: "Have fun! Enjoy shadow puppetry. All are welcome!"
+next_event_link: "https://forms.gle/your-google-form-link"
