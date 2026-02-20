@@ -6,9 +6,10 @@ title: "Activities"
 ## 🎬 Latest Video: Sharing the History and Culture of the Chinese Spring Festival.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/eegzVC9ZKs8" frameborder="0" allowfullscreen style="border-radius: 12px; margin: 20px 0;"></iframe>
-
 *February 2026, invited to share the Chinese Spring Festival to the kindergarteners of Nativity Catholic School in Indianapolis*
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/aojqEZt33Ck" frameborder="0" allowfullscreen style="border-radius: 12px; margin: 20px 0;"></iframe>
+*February 2026, invited to share the Chinese Spring Festival to the kindergarteners of Nativity Catholic School in Indianapolis*
 ---
 
 ## 🖼️ Posters
