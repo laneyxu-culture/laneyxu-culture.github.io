@@ -13,9 +13,9 @@ I've been sharing Chinese culture since elementary school — with students in t
 
 I was a freshman in **the High School Affiliated to Beijing Normal University** in China, and hosted a delegation of Niles North High School，Niles West High School（IL）.
 
-During my exchange year at **Elgin High School**in Oregan , I started the school's first Chinese Culture Club.
+During my exchange year at **Elgin High School** in Oregan , I started the school's first Chinese Culture Club.
 
-Now at **St. Fracias High School**in Illinois, I'm an active member of Chinese Culture Club.
+Now at **St. Fracias High School** in Illinois, I'm an active member of Chinese Culture Club.
 
 ## Why This Website
 
