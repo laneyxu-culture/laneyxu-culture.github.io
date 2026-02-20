@@ -23,7 +23,7 @@ title: "Culture Lab"
 
 ---
 
-## 📝 Psychology Survey: Survey of Cultural Cognition at Lunar New Year
+## 📝 Survey of Cultural Cognition at Lunar New Year
 
 <div style="background: #FFF5F0; padding: 30px; border-radius: 20px; margin: 40px 0;">
   <p style="font-size: 1.1em; margin-bottom: 20px; color: #B22222;">
@@ -38,6 +38,5 @@ title: "Culture Lab"
 
 ### 🔬 Research Reports (Coming Soon)
 
-*I'm currently writing up my survey results and psychology reflections. Check back in a few months!*
 
 
