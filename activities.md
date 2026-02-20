@@ -7,7 +7,7 @@ title: "Activities"
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/你的视频ID" frameborder="0" allowfullscreen style="border-radius: 12px; margin: 20px 0;"></iframe>
 
-*February 2026, I was invited to speak about the Chinese Spring Festival at Nativity Catholic School in Indianapolis, USA.*
+*February 2026, Laney Xu was invited to speak about the Chinese Spring Festival at Nativity Catholic School in Indianapolis, USA.*
 
 ---
 
