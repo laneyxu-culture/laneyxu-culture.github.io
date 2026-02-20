@@ -3,11 +3,70 @@ layout: default
 title: "Home"
 ---
 
-# Chinese Culture Club @ SFHS
+<!-- 主标题区域，使用中国红 -->
+<div style="background: #B22222; color: white; padding: 40px 20px; text-align: center; border-radius: 0 0 20px 20px; margin-bottom: 40px;">
+  <h1 style="font-size: 2.5em; margin: 0; font-weight: 600;">Bridging Minds</h1>
+  <p style="font-size: 1.2em; margin: 10px 0 0; opacity: 0.9;">Chinese culture · Psychology research · Exchange stories</p>
+</div>
 
-<!-- 活动预告模块 - 每两周更新一次 -->
-<div style="background: linear-gradient(135deg, #8B4513, #DAA520); padding: 30px; border-radius: 15px; margin: 30px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-  <h2 style="color: white; margin-top: 0; font-size: 2em;">🎉 NEXT EVENT</h2>
+<!-- 四个主要栏目的横排卡片导航 -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 25px; margin: 40px 0; padding: 0 10px;">
+
+  <!-- Activities 卡片 -->
+  <a href="/activities" style="text-decoration: none; color: inherit;">
+    <div style="background: white; border: 2px solid #B22222; border-radius: 16px; padding: 25px 15px; text-align: center; box-shadow: 0 6px 12px rgba(178, 34, 34, 0.2); transition: transform 0.2s;">
+      <div style="font-size: 3.5em; margin-bottom: 15px;">📂</div>
+      <h3 style="color: #B22222; margin: 10px 0; font-size: 1.5em;">Activities</h3>
+      <p style="color: #555; font-size: 0.95em; margin: 10px 0;">Posters, PPTs, photos & videos from every event.</p>
+      <span style="display: inline-block; background: #B22222; color: white; padding: 8px 20px; border-radius: 25px; font-weight: 500;">Explore →</span>
+    </div>
+  </a>
+
+  <!-- Culture Lab 卡片 -->
+  <a href="/culture-lab" style="text-decoration: none; color: inherit;">
+    <div style="background: white; border: 2px solid #B22222; border-radius: 16px; padding: 25px 15px; text-align: center; box-shadow: 0 6px 12px rgba(178, 34, 34, 0.2); transition: transform 0.2s;">
+      <div style="font-size: 3.5em; margin-bottom: 15px;">🧠</div>
+      <h3 style="color: #B22222; margin: 10px 0; font-size: 1.5em;">Culture Lab</h3>
+      <p style="color: #555; font-size: 0.95em; margin: 10px 0;">Experiments & research on culture and perception.</p>
+      <span style="display: inline-block; background: #B22222; color: white; padding: 8px 20px; border-radius: 25px; font-weight: 500;">Explore →</span>
+    </div>
+  </a>
+
+  <!-- Exchange Stories 卡片 -->
+  <a href="/exchange-stories" style="text-decoration: none; color: inherit;">
+    <div style="background: white; border: 2px solid #B22222; border-radius: 16px; padding: 25px 15px; text-align: center; box-shadow: 0 6px 12px rgba(178, 34, 34, 0.2); transition: transform 0.2s;">
+      <div style="font-size: 3.5em; margin-bottom: 15px;">📖</div>
+      <h3 style="color: #B22222; margin: 10px 0; font-size: 1.5em;">Exchange Stories</h3>
+      <p style="color: #555; font-size: 0.95em; margin: 10px 0;">303 days in Oregon — stories & award-winning video.</p>
+      <span style="display: inline-block; background: #B22222; color: white; padding: 8px 20px; border-radius: 25px; font-weight: 500;">Read →</span>
+    </div>
+  </a>
+
+  <!-- My Research 卡片 -->
+  <a href="/my-research" style="text-decoration: none; color: inherit;">
+    <div style="background: white; border: 2px solid #B22222; border-radius: 16px; padding: 25px 15px; text-align: center; box-shadow: 0 6px 12px rgba(178, 34, 34, 0.2); transition: transform 0.2s;">
+      <div style="font-size: 3.5em; margin-bottom: 15px;">📋</div>
+      <h3 style="color: #B22222; margin: 10px 0; font-size: 1.5em;">My Research</h3>
+      <p style="color: #555; font-size: 0.95em; margin: 10px 0;">Psychology surveys & research projects.</p>
+      <span style="display: inline-block; background: #B22222; color: white; padding: 8px 20px; border-radius: 25px; font-weight: 500;">View →</span>
+    </div>
+  </a>
+
+</div>
+
+<!-- 原有的介绍文字和活动预告模块保持不变，并融入新色调 -->
+<div style="background: #FFF5F0; padding: 30px; border-radius: 20px; margin: 40px 0;">
+  <p style="font-size: 1.1em; color: #333; margin-bottom: 20px;">
+    <strong>Who is this for?</strong><br>
+    - <strong>Club members</strong>: Download materials, join surveys, read the stories<br>
+    - <strong>Next year's board</strong>: Everything is here. You don't have to start over.<br>
+    - <strong>Anyone at another school</strong>: Need materials for your own Chinese Culture Club? Take what you need.
+  </p>
+</div>
+
+<!-- 活动预告模块 - 更新为与中国红搭配的金色渐变 -->
+<div style="background: linear-gradient(135deg, #B22222, #D4AF37); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(178, 34, 34, 0.3);">
+  <h2 style="color: white; margin-top: 0; font-size: 2em; font-weight: 600;">🎉 NEXT EVENT</h2>
   <div style="font-size: 1.3em; margin: 20px 0;">
     <strong>{{ site.next_event_title }}</strong>
   </div>
@@ -15,39 +74,15 @@ title: "Home"
     📅 {{ site.next_event_date }} · {{ site.next_event_time }}
   </div>
   <div style="margin: 20px 0;">
-    <img src="{{ site.next_event_poster }}" alt="Event poster" style="max-width: 300px; width: 100%; border-radius: 12px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <img src="{{ site.next_event_poster }}" alt="Event poster" style="max-width: 300px; width: 100%; border-radius: 12px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </div>
   <div style="font-size: 1.1em; margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
     {{ site.next_event_description }}
   </div>
-  <a href="{{ site.next_event_link }}" style="display: inline-block; background: white; color: #8B4513; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2em; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">📝 Register</a>
+  <a href="{{ site.next_event_link }}" style="display: inline-block; background: white; color: #B22222; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2em; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">📝 Register</a>
 </div>
----
 
-## 📂 Activities
-PPT decks, posters, photos, and videos from every event we ran.  
-**Download, remix, use for your own club.**  
-[👉 View Activities](/activities)
-
-## 🧠 Culture Lab
-Why do we see the world differently?  
-Posters, experiments, and soon — research reports on how culture shapes perception.  
-[👉 Explore Culture Lab](/culture-lab)
-
-## 📖 Exchange Stories
-303 days in Elgin, Oregon. Selected stories, photos, and my award-winning video.  
-[👉 Read Stories](/exchange-stories)
-
-## 📋 My Research
-Psychology surveys and research projects — starting with my Spring Festival survey.  
-[👉 See My Research](/my-research)
-
----
-
-**Who is this for?**
-- **Club members**: Download materials, join surveys, read the stories
-- **Next year's board**: Everything is here. You don't have to start over.
-- **Anyone at another school**: Need materials for your own Chinese Culture Club? **Take what you need.**
-
-
-📧 inesqiaojia@gmail.com  
+<!-- 页脚联系方式 -->
+<div style="text-align: center; margin: 30px 0; color: #555;">
+  📧 inesqiaojia@gmail.com · 📌 Club meeting: Wednesday 2:35 PM, Room 2309
+</div>
