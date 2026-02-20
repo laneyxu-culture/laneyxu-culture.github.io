@@ -2,8 +2,8 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme
 
-title: "Chinese Culture Club @ SFHS"
-description: "Activities · Culture Lab · Exchange Stories · My Research"
+title: "Bridging Minds"
+description: "Culture · Cognition · Connections across borders"
 
 # 导航栏菜单
 navbar-links:
