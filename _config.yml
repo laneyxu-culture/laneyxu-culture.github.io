@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme
 
@@ -23,8 +23,42 @@ github_username: laneyxu-culture
 
 # 活动预告配置（每两周更新一次）
 next_event_title: "Shadow Puppetry (皮影戲)"
-next_event_date: "3/11/2026"
-next_event_time: "2:35pm"
+next_event_date: "March 11, 2026"
+next_event_time: "2:35 PM"
 next_event_poster: "/assets/img/posters/20260311皮影戲海報.jpg"
 next_event_description: "Have fun! Enjoy shadow puppetry. All are welcome!"
 next_event_link: "https://forms.gle/your-google-form-link"
+
+# 网站外观设置（Beautiful Jekyll 主题专用）
+# 颜色配置
+navbar-col: "#8B4513"        # 赭石色导航栏
+navbar-text-col: "#FFFFFF"    # 白色文字
+navbar-border-col: "#DAA520"  # 金色边框
+page-col: "#FFF9F5"          # 米白背景
+text-col: "#404040"          # 深灰文字
+link-col: "#8B4513"          # 链接颜色
+hover-col: "#DAA520"         # 悬停变金色
+footer-col: "#F5F5F5"        # 页脚浅灰
+
+# 头像（如果你有头像照片就取消下面注释，没有就先留着）
+# avatar: "/assets/img/avatar.jpg"
+# round-avatar: true
+
+# 社交链接
+social-network-links:
+  github: laneyxu-culture
+  email: "inesqiaojia@gmail.com"
+
+# 其他设置
+timezone: "America/Chicago"  # 根据你所在的时区设置
+markdown: kramdown
+highlighter: rouge
+
+# 阅读时间显示
+readtime: true
+
+# 社交分享按钮
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
