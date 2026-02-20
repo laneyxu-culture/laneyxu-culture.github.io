@@ -48,27 +48,26 @@ title: "Activities"
 </div>
 
 <!-- Photos 内容区域 -->
-## 📸 Photos
-
-{% for album in site.photo_albums %}
-  <div style="margin: 40px 0;">
-    <h3 style="color: #B22222;">{{ album.title }}</h3>
-    <p style="color: #666; margin-bottom: 20px;">{{ album.description }}</p>
-    
-    {% if album.status == "coming soon" %}
-      <div style="background: #FFF5F0; padding: 30px; text-align: center; border-radius: 12px; border: 1px dashed #B22222;">
-        <p style="color: #B22222; font-style: italic;">📸 Photos coming soon</p>
-      </div>
-    {% else %}
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-        {% for photo in album.photos %}
-          <img src="{{ photo }}" style="width:100%; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-        {% endfor %}
-      </div>
-    {% endif %}
-  </div>
-{% endfor %}
-
+<div id="photos" class="tab-content" style="display: none;">
+  {% for album in site.photo_albums %}
+    <div style="margin: 40px 0;">
+      <h3 style="color: #B22222;">{{ album.title }}</h3>
+      <p style="color: #666; margin-bottom: 20px;">{{ album.description }}</p>
+      
+      {% if album.status == "coming soon" %}
+        <div style="background: #FFF5F0; padding: 30px; text-align: center; border-radius: 12px; border: 1px dashed #B22222;">
+          <p style="color: #B22222; font-style: italic;">📸 Photos coming soon</p>
+        </div>
+      {% else %}
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+          {% for photo in album.photos %}
+            <img src="{{ photo }}" style="width:100%; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
 
 <!-- PPTs 内容区域 -->
 <div id="ppts" class="tab-content" style="display: none;">
