@@ -78,6 +78,7 @@ hide_title: true
 
 <!-- 显示总访问量 -->
 <span id="busuanzi_container_site_pv">
-    ❤️<span id="busuanzi_value_site_pv"></span> people have visited this site
+    🌍 <span id="busuanzi_value_site_pv"></span> visits
 </span>
+</div>
 </div>
