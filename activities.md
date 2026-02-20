@@ -27,42 +27,72 @@ title: "Activities"
 
 ---
 
-## 🖼️ Posters
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 30px 0;">
-  {% for poster in site.posters %}
-    <div style="text-align: center;">
-      <img src="{{ poster.image }}" style="width:100%; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 5px; color: #8B4513; font-weight: 500;">{{ poster.title }}</p>
-      <p style="font-size: 0.85em; color: #666;">{{ poster.date | date: "%B %d, %Y" }}</p>
-    </div>
-  {% endfor %}
+<!-- 标签栏导航 -->
+<div style="display: flex; gap: 10px; margin: 30px 0; border-bottom: 2px solid #B22222; padding-bottom: 10px; flex-wrap: wrap;">
+  <button onclick="showTab('posters')" style="background: #B22222; color: white; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">📋 Posters</button>
+  <button onclick="showTab('photos')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">📸 Photos</button>
+  <button onclick="showTab('ppts')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">📄 Activity PPTs</button>
 </div>
 
----
-
-## 📸 Photos
-
-### SFHS Chinese New Year Fair 2026
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-  <img src="/assets/img/activities/spring-1.jpg" style="width:100%; border-radius:8px;">
-  <img src="/assets/img/activities/spring-2.jpg" style="width:100%; border-radius:8px;">
-  <img src="/assets/img/activities/spring-3.jpg" style="width:100%; border-radius:8px;">
+<!-- Posters 内容区域 -->
+<div id="posters" class="tab-content">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0;">
+    {% for poster in site.posters %}
+      <div style="text-align: center;">
+        <img src="{{ poster.image }}" style="width:100%; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 5px; color: #8B4513; font-weight: 500;">{{ poster.title }}</p>
+        <p style="font-size: 0.85em; color: #666;">{{ poster.date | date: "%B %d, %Y" }}</p>
+      </div>
+    {% endfor %}
+  </div>
 </div>
 
----
-
-## 📄 Activity PPTs
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px 0;">
-  {% for ppt in site.ppt_files %}
-    <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 12px; background: #fafafa;">
-      <h4 style="margin-top: 0; color: #8B4513; font-size: 1em;">{{ ppt.title }}</h4>
-      <iframe src="/assets/pdfs/{{ ppt.file }}" width="100%" height="250" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
-      <p style="margin-top: 10px; text-align: right;">
-        <a href="/assets/pdfs/{{ ppt.file }}" target="_blank" style="color: #8B4513; text-decoration: none;">Open in new window ↗</a>
-      </p>
-    </div>
-  {% endfor %}
+<!-- Photos 内容区域 -->
+<div id="photos" class="tab-content" style="display: none;">
+  <h3 style="color: #B22222;">SFHS Chinese New Year Fair 2026</h3>
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+    <img src="/assets/img/activities/spring-1.jpg" style="width:100%; border-radius:8px;">
+    <img src="/assets/img/activities/spring-2.jpg" style="width:100%; border-radius:8px;">
+    <img src="/assets/img/activities/spring-3.jpg" style="width:100%; border-radius:8px;">
+  </div>
 </div>
+
+<!-- PPTs 内容区域 -->
+<div id="ppts" class="tab-content" style="display: none;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 20px 0;">
+    {% for ppt in site.ppt_files %}
+      <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 12px; background: #fafafa;">
+        <h4 style="margin-top: 0; color: #8B4513; font-size: 1em;">{{ ppt.title }}</h4>
+        <iframe src="/assets/pdfs/{{ ppt.file }}" width="100%" height="250" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
+        <p style="margin-top: 10px; text-align: right;">
+          <a href="/assets/pdfs/{{ ppt.file }}" target="_blank" style="color: #8B4513; text-decoration: none;">Open in new window ↗</a>
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- 切换标签的JavaScript -->
+<script>
+function showTab(tabName) {
+  // 隐藏所有内容区域
+  var tabs = document.getElementsByClassName('tab-content');
+  for (var i = 0; i < tabs.length; i++) {
+    tabs[i].style.display = 'none';
+  }
+  
+  // 显示选中的内容区域
+  document.getElementById(tabName).style.display = 'block';
+  
+  // 更新按钮样式
+  var buttons = document.querySelectorAll('button');
+  for (var i = 0; i < buttons.length; i++) {
+    buttons[i].style.background = '#f0f0f0';
+    buttons[i].style.color = '#B22222';
+  }
+  
+  // 高亮当前按钮
+  event.target.style.background = '#B22222';
+  event.target.style.color = 'white';
+}
+</script>
