@@ -63,7 +63,7 @@ title: "Activities"
     {% for ppt in site.ppt_files %}
       <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 12px; background: #fafafa;">
         <h4 style="margin-top: 0; color: #8B4513; font-size: 1em;">{{ ppt.title }}</h4>
-        <iframe src="/assets/pdfs/{{ ppt.file }}" width="100%" height="250" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
+        <iframe src="/assets/pdfs/{{ ppt.file }}" width="100%" height="450" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
         <p style="margin-top: 10px; text-align: right;">
           <a href="/assets/pdfs/{{ ppt.file }}" target="_blank" style="color: #8B4513; text-decoration: none;">Open in new window ↗</a>
         </p>
