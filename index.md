@@ -1,8 +1,27 @@
 ---
 layout: page
-title: "Home"
+title: ""
 hide_title: true
 ---
+
+<!-- 活动预告模块 -->
+<div style="background: linear-gradient(135deg, #B22222, #D4AF37); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(178, 34, 34, 0.3);">
+  <h2 style="color: white; margin-top: 0; font-size: 2em; font-weight: 600;">🎉 NEXT EVENT</h2>
+  <div style="font-size: 1.3em; margin: 20px 0;">
+    <strong>{{ site.next_event_title }}</strong>
+  </div>
+  <div style="font-size: 1.2em; margin: 10px 0;">
+    📅 {{ site.next_event_date }} · {{ site.next_event_time }}
+  </div>
+  <div style="margin: 20px 0;">
+    <img src="{{ site.next_event_poster }}" alt="Event poster" style="max-width: 300px; width: 100%; border-radius: 12px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+  <div style="font-size: 1.1em; margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
+    {{ site.next_event_description }}
+  </div>
+  <a href="{{ site.next_event_link }}" style="display: inline-block; background: white; color: #B22222; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2em; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">📝 Register</a>
+</div>
+
 
 <!-- 四个主要栏目的横排卡片导航 -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 25px; margin: 40px 0; padding: 0 10px;">
@@ -49,33 +68,6 @@ hide_title: true
 
 </div>
 
-<!-- 介绍文字区域 -->
-<div style="background: #FFF5F0; padding: 30px; border-radius: 20px; margin: 40px 0;">
-  <p style="font-size: 1.1em; color: #333; margin-bottom: 20px;">
-    <strong>Who is this for?</strong><br>
-    - <strong>Club members</strong>: Download materials, join surveys, read the stories<br>
-    - <strong>Next year's board</strong>: Everything is here. You don't have to start over.<br>
-    - <strong>Anyone at another school</strong>: Need materials for your own Chinese Culture Club? Take what you need.
-  </p>
-</div>
-
-<!-- 活动预告模块 -->
-<div style="background: linear-gradient(135deg, #B22222, #D4AF37); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(178, 34, 34, 0.3);">
-  <h2 style="color: white; margin-top: 0; font-size: 2em; font-weight: 600;">🎉 NEXT EVENT</h2>
-  <div style="font-size: 1.3em; margin: 20px 0;">
-    <strong>{{ site.next_event_title }}</strong>
-  </div>
-  <div style="font-size: 1.2em; margin: 10px 0;">
-    📅 {{ site.next_event_date }} · {{ site.next_event_time }}
-  </div>
-  <div style="margin: 20px 0;">
-    <img src="{{ site.next_event_poster }}" alt="Event poster" style="max-width: 300px; width: 100%; border-radius: 12px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </div>
-  <div style="font-size: 1.1em; margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
-    {{ site.next_event_description }}
-  </div>
-  <a href="{{ site.next_event_link }}" style="display: inline-block; background: white; color: #B22222; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2em; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">📝 Register</a>
-</div>
 
 <!-- 页脚联系方式 -->
 <div style="text-align: center; margin: 30px 0; color: #555;">
