@@ -1,13 +1,8 @@
 ---
-layout: default
+layout: page
 title: "Home"
+hide_title: true
 ---
-
-<!-- 主标题区域，使用中国红 -->
-<div style="background: #B22222; color: white; padding: 40px 20px; text-align: center; border-radius: 0 0 20px 20px; margin-bottom: 40px;">
-  <h1 style="font-size: 2.5em; margin: 0; font-weight: 600;">Bridging Minds</h1>
-  <p style="font-size: 1.2em; margin: 10px 0 0; opacity: 0.9;">Chinese culture · Psychology research · Exchange stories</p>
-</div>
 
 <!-- 四个主要栏目的横排卡片导航 -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 25px; margin: 40px 0; padding: 0 10px;">
@@ -54,7 +49,7 @@ title: "Home"
 
 </div>
 
-<!-- 原有的介绍文字和活动预告模块保持不变，并融入新色调 -->
+<!-- 介绍文字区域 -->
 <div style="background: #FFF5F0; padding: 30px; border-radius: 20px; margin: 40px 0;">
   <p style="font-size: 1.1em; color: #333; margin-bottom: 20px;">
     <strong>Who is this for?</strong><br>
@@ -64,7 +59,7 @@ title: "Home"
   </p>
 </div>
 
-<!-- 活动预告模块 - 更新为与中国红搭配的金色渐变 -->
+<!-- 活动预告模块 -->
 <div style="background: linear-gradient(135deg, #B22222, #D4AF37); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(178, 34, 34, 0.3);">
   <h2 style="color: white; margin-top: 0; font-size: 2em; font-weight: 600;">🎉 NEXT EVENT</h2>
   <div style="font-size: 1.3em; margin: 20px 0;">
@@ -84,5 +79,5 @@ title: "Home"
 
 <!-- 页脚联系方式 -->
 <div style="text-align: center; margin: 30px 0; color: #555;">
-  📧 inesqiaojia@gmail.com · 📌 Club meeting: Wednesday 2:35 PM, Room 2309
+  📧 inesqiaojia@gmail.com
 </div>
