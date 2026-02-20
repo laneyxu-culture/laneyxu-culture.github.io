@@ -49,3 +49,15 @@ timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 readtime: true
+
+# 定义集合 - 用于Activities页面的分类内容
+collections:
+  posters:
+    output: true
+    permalink: /activities/posters/:title
+  ppt_files:
+    output: true
+    permalink: /activities/ppts/:title
+  photo_albums:
+    output: true
+    permalink: /activities/photos/:title
