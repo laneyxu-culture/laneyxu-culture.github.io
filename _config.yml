@@ -24,8 +24,8 @@ github_username: laneyxu-culture
 # 活动预告配置（每两周更新一次）
 next_event_title: "Shadow Puppetry (皮影戲)"
 next_event_date: "March 11, 2026"
-next_event_time: "2:35 PM"
-next_event_poster: "/assets/img/posters/20260311皮影戲海報.jpg"
+next_event_time: "2:35 pm."
+next_event_poster: "/assets/img/posters/20260311.jpg"
 next_event_description: "Have fun! Enjoy shadow puppetry. All are welcome!"
 next_event_link: "https://forms.gle/your-google-form-link"
 
