@@ -72,4 +72,12 @@ hide_title: true
 <!-- 页脚联系方式 -->
 <div style="text-align: center; margin: 30px 0; color: #555;">
   📧 inesqiaojia@gmail.com
+
+<!-- 引入不蒜子脚本 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- 显示总访问量 -->
+<span id="busuanzi_container_site_pv">
+  本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+</span>
 </div>
