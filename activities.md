@@ -9,7 +9,7 @@ title: "Activities"
 *February 2026, invited to share the Chinese Spring Festival to the kindergarteners of Nativity Catholic School in Indianapolis*
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aojqEZt33Ck" frameborder="0" allowfullscreen style="border-radius: 12px; margin: 20px 0;"></iframe>
-*February 2026, invited to share the Chinese Spring Festival to the kindergarteners of Nativity Catholic School in Indianapolis*
+*St. Francis High School Chinese New Year Fair2026 Trailer*
 ---
 
 ## 🖼️ Posters
