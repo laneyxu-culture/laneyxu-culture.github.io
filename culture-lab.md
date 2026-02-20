@@ -23,12 +23,21 @@ title: "Culture Lab"
 
 ---
 
+## 📝 Psychology Survey: Survey of Cultural Cognition at Lunar New Year
+
+<div style="background: #FFF5F0; padding: 30px; border-radius: 20px; margin: 40px 0;">
+  <p style="font-size: 1.1em; margin-bottom: 20px; color: #B22222;">
+    I'm exploring how people from different backgrounds perceive Chinese culture. 
+    Your responses will help shape my research. Thank you for participating!
+  </p>
+  
+  <!-- 在这里粘贴你的Google Forms嵌入代码 -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjogpxrkigQumJc0GrOE8lDZkhO-Z6KU_03uFV9dgTIA6NuQ/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
+
 ### 🔬 Research Reports (Coming Soon)
 
 *I'm currently writing up my survey results and psychology reflections. Check back in a few months!*
 
----
 
-### 🔍 Why This Matters
-
-I'm applying to study **Psychology / Cognitive Science** because I'm fascinated by how culture shapes perception, memory, and identity. These posters are my first steps into understanding that connection.
