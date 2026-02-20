@@ -67,9 +67,9 @@ title: "Activities"
 
   <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 12px; background: #fafafa;">
     <h4 style="margin-top: 0; color: #8B4513; font-size: 1em;">20250312 Elgin traffic</h4>
-    <iframe src="/assets/pdfs/20250312Elgin-traffic.pdf" width="100%" height="250" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
+    <iframe src="/assets/pdfs/20250312traffic.pdf" width="100%" height="250" style="border: none; border-radius: 8px; background: #f0f0f0;"></iframe>
     <p style="margin-top: 10px; text-align: right;">
-      <a href="/assets/pdfs/20250312Elgin-traffic.pdf" target="_blank" style="color: #8B4513; text-decoration: none;">Open in new window ↗</a>
+      <a href="/assets/pdfs/20250312traffic.pdf" target="_blank" style="color: #8B4513; text-decoration: none;">Open in new window ↗</a>
     </p>
   </div>
 
