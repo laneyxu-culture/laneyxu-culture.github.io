@@ -3,8 +3,8 @@ layout: page
 title: "Chinese Culture Club@SFHS"
 hide_title: true
 ---
-<!--
-<!-- 活动预告模块 -->
+
+<!-- 活动预告模块已暂时隐藏 
 <div style="background: linear-gradient(135deg, #B22222, #D4AF37); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 8px 16px rgba(178, 34, 34, 0.3);">
   <h2 style="color: white; margin-top: 0; font-size: 2em; font-weight: 600;">🎉 NEXT EVENT</h2>
   <div style="font-size: 1.3em; margin: 20px 0;">
@@ -67,7 +67,6 @@ hide_title: true
   </a>
 
 </div>
-
 
 <!-- 页脚联系方式 -->
 <div style="text-align: center; margin: 30px 0; color: #555;">
