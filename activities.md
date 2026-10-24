@@ -8,8 +8,15 @@ title: "Activities"
 <div style="margin: 30px 0;">
   <div style="max-width: 800px; margin: 0 auto 40px auto;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-      <!-- 修改了这里的 iframe -->
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/eegzVC9ZKs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+      <iframe 
+        src="https://www.youtube-nocookie.com/embed/eegzVC9ZKs8" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+      </iframe>
     </div>
     <p style="text-align: center; margin-top: 10px; color: #555; font-style: italic;">
       February 2026, invited to share the Chinese Spring Festival with kindergarteners at Nativity Catholic School in Indianapolis
@@ -18,8 +25,15 @@ title: "Activities"
 
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-      <!-- 修改了这里的 iframe -->
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/aojqEZt33Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+      <iframe 
+        src="https://www.youtube-nocookie.com/embed/aojqEZt33Ck" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+      </iframe>
     </div>
     <p style="text-align: center; margin-top: 10px; color: #555; font-style: italic;">
       St. Francis High School Chinese New Year Fair 2026 Trailer
