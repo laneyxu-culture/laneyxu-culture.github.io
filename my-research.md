@@ -49,22 +49,16 @@ permalink: /my-research/
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-  <!-- 图片 1 -->
-  <a href="/assets/img/my-research/handout-1.jpg" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background: #f9f9f9; border: 2px solid #555; border-radius: 16px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
-      <h4 style="color: #333; margin-top: 0; margin-bottom: 10px;">Little Friends TCM Handout (Part 1)</h4>
-      <p style="color: #555; font-size: 0.95em;">A visual guide to Traditional Chinese Medicine practices.</p>
-      <span style="color: #333; font-weight: 600;">View Image ↗</span>
+  <!-- 合并后的 TCM Handout -->
+  <div style="background: #f9f9f9; border: 2px solid #555; border-radius: 16px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
+    <h4 style="color: #333; margin-top: 0; margin-bottom: 10px;">Little Friends TCM Handout</h4>
+    <p style="color: #555; font-size: 0.95em; margin-bottom: 20px;">
+      A visual guide to Traditional Chinese Medicine practices (Front & Back pages).
+    </p>
+    <div style="display: flex; gap: 20px;">
+      <a href="/assets/img/my-research/handout-1.jpg" target="_blank" style="color: #333; font-weight: 600; text-decoration: none;">View Front ↗</a>
+      <a href="/assets/img/my-research/handout-2.jpg" target="_blank" style="color: #333; font-weight: 600; text-decoration: none;">View Back ↗</a>
     </div>
-  </a>
-
-  <!-- 图片 2 -->
-  <a href="/assets/img/my-research/handout-2.jpg" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background: #f9f9f9; border: 2px solid #555; border-radius: 16px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
-      <h4 style="color: #333; margin-top: 0; margin-bottom: 10px;">Little Friends TCM Handout (Part 2)</h4>
-      <p style="color: #555; font-size: 0.95em;">A visual guide to Traditional Chinese Medicine practices.</p>
-      <span style="color: #333; font-weight: 600;">View Image ↗</span>
-    </div>
-  </a>
+  </div>
 
 </div>
