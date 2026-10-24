@@ -7,8 +7,11 @@ permalink: /research/tcm-little-friends/
   <div style="font-size: 1.8em; font-weight: bold; color: #333; line-height: 1.4; margin-bottom: 20px;">
     Exploring Complementary Approaches: What Traditional Chinese Practices Might Offer at Little Friends
   </div>
+  <div style="font-size: 1.1em; color: #555; margin-bottom: 5px;">
+    <strong>Laney Xu</strong>
+  </div>
   <div style="font-size: 1.1em; color: #555;">
-    By Laney Xu · A Volunteer's Literature Review
+    A Volunteer's Literature Review
   </div>
 </div>
 
@@ -30,10 +33,10 @@ The big idea in TCM is that the body and mind are completely connected—which h
 
 If I had to simplify how TCM explains autism-like symptoms, it comes down to a few things:
 
-*   **"The foundation is weak":** TCM talks about "kidney essence" (精), which is basically the energy we're born with—it fuels brain development, growth, and vitality. Some kids might have a weaker foundation, which affects how their brain functions.
-*   **"The communication channel is blocked":** The "heart" in TCM isn't just the pump—it's also connected to consciousness and speech. If it's "blocked" by things like phlegm or stagnant energy (metaphors, not literal), a child might have trouble expressing themselves or responding to others.
-*   **"Emotions get stuck":** The "liver" in TCM is in charge of smooth energy flow and emotional regulation. If it's "stagnant," kids might get irritable, rigid, or stuck in repetitive behaviors.
-*   **"Energy is low":** The "spleen" handles digestion and turning food into energy. If it's weak, the whole system doesn't have enough fuel—which can affect focus and learning.
+* **"The foundation is weak":** TCM talks about "kidney essence" (精), which is basically the energy we're born with—it fuels brain development, growth, and vitality. Some kids might have a weaker foundation, which affects how their brain functions.
+* **"The communication channel is blocked":** The "heart" in TCM isn't just the pump—it's also connected to consciousness and speech. If it's "blocked" by things like phlegm or stagnant energy (metaphors, not literal), a child might have trouble expressing themselves or responding to others.
+* **"Emotions get stuck":** The "liver" in TCM is in charge of smooth energy flow and emotional regulation. If it's "stagnant," kids might get irritable, rigid, or stuck in repetitive behaviors.
+* **"Energy is low":** The "spleen" handles digestion and turning food into energy. If it's weak, the whole system doesn't have enough fuel—which can affect focus and learning.
 
 So TCM doesn't try to "fix" autism like curing a disease. The goal is to bring the system back into balance—through acupuncture, massage, diet, music, or other tools.
 
@@ -44,9 +47,9 @@ I read about 20 Chinese studies (mostly small-scale observations, not huge clini
 ### 1. Acupuncture
 
 This is the most studied method. Different types exist:
-*   **Scalp acupuncture:** Needles placed on specific spots on the head that correspond to brain functions.
-*   **Body acupuncture:** Points like Neiguan (inner arm) or Zusanli (below the knee) to regulate overall energy.
-*   **Auricular acupuncture:** Tiny seeds taped to points on the ear (less invasive, kids tolerate it better).
+* **Scalp acupuncture:** Needles placed on specific spots on the head that correspond to brain functions.
+* **Body acupuncture:** Points like Neiguan (inner arm) or Zusanli (below the knee) to regulate overall energy.
+* **Auricular acupuncture:** Tiny seeds taped to points on the ear (less invasive, kids tolerate it better).
 
 Studies reported improvements in speech, attention, and imitation skills. Researchers think it might work by increasing blood flow to certain brain areas or regulating neurotransmitters.
 
@@ -55,45 +58,45 @@ Studies reported improvements in speech, attention, and imitation skills. Resear
 ### 2. Massage and Meridian Pressing
 
 This one feels more relevant. Two main types:
-*   **Pediatric tui na (for younger kids):** Very gentle techniques like "opening the sky gate" (lightly stroking the forehead) or "pinching the spine" (gently pinching along the back).
-*   **Meridian massage (for older kids):** Focusing on the spine area (the "governing vessel" meridian) to "boost energy" and improve alertness.
+* **Pediatric tui na (for younger kids):** Very gentle techniques like "opening the sky gate" (lightly stroking the forehead) or "pinching the spine" (gently pinching along the back).
+* **Meridian massage (for older kids):** Focusing on the spine area (the "governing vessel" meridian) to "boost energy" and improve alertness.
 
 Studies say it helps with sleep, digestion, and calming anxiety. What I found interesting: This overlaps with what I've already seen at Little Friends. When kids get overwhelmed, gentle touch on the back or shoulders helps them regulate. It's basically the same idea—just with a different name.
 
 ### 3. Food and Diet
 
 In China, some practitioners prescribe herbal formulas or suggest specific foods based on the child's "pattern." Examples:
-*   For kids with "kidney deficiency": Foods like yam or black sesame.
-*   For kids with "damp-phlegm": Avoid sweets and greasy food; eat light, easy-to-digest meals.
+* For kids with "kidney deficiency": Foods like yam or black sesame.
+* For kids with "damp-phlegm": Avoid sweets and greasy food; eat light, easy-to-digest meals.
 
 *Reality check: Herbs are tricky here (safety, regulations, no evidence base in Western terms). But the "food as support" idea? Maybe during snack time or cooking activities, we could offer calming foods like sweet potato puree or mild congee—just as a sensory experience.*
 
 ### 4. Five-Element Music Therapy
 
 This was one of the coolest things I read about. TCM connects five musical tones to five organs:
-*   **Jue (wood tone):** Connected to the liver. Music that's flowing and expansive (like Jiangnan folk music) is thought to soothe irritability.
-*   **Zhi (fire tone):** Connected to the heart. Lively, joyful music (like Purple Bamboo Tune) to lift mood.
-*   **Gong (earth tone):** Connected to the spleen. Calming, grounding music (like Moon over Spring River) to help with focus and worry.
-*   **Shang (metal tone):** Connected to the lungs. Strong, clear music to help with grief or detachment.
-*   **Yu (water tone):** Connected to the kidneys. Soft, deep music (like Moon Reflected in Second Spring) to calm fear and boost willpower.
+* **Jue (wood tone):** Connected to the liver. Music that's flowing and expansive (like Jiangnan folk music) is thought to soothe irritability.
+* **Zhi (fire tone):** Connected to the heart. Lively, joyful music (like Purple Bamboo Tune) to lift mood.
+* **Gong (earth tone):** Connected to the spleen. Calming, grounding music (like Moon over Spring River) to help with focus and worry.
+* **Shang (metal tone):** Connected to the lungs. Strong, clear music to help with grief or detachment.
+* **Yu (water tone):** Connected to the kidneys. Soft, deep music (like Moon Reflected in Second Spring) to calm fear and boost willpower.
 
 Studies said that playing matching music helped kids reduce anxiety, engage more socially, and focus longer.
 
 ### 5. Chinese Brush Painting
 
 This one surprised me. A couple of studies looked at having kids paint with brushes and ink. The idea:
-*   Painting long, continuous lines requires focus—good practice for attention.
-*   The brush gives unique tactile feedback.
-*   Ink has five shades (light to dark), which some connect to the five elements. Letting kids choose colors/shades could be a form of emotional expression.
+* Painting long, continuous lines requires focus—good practice for attention.
+* The brush gives unique tactile feedback.
+* Ink has five shades (light to dark), which some connect to the five elements. Letting kids choose colors/shades could be a form of emotional expression.
 
 *Reality check: We don't have Chinese painting materials at Little Friends. But the combo of "quiet art + background music" is totally doable.*
 
 ## Part 3: What Modern Science Might Say About This
 
 I'm not a scientist, but the papers I read tried to explain why these things might work in terms we'd recognize:
-*   **Acupuncture/massage:** Might stimulate nerves, change brain network activity, or increase blood flow.
-*   **Music/art:** Give kids a nonverbal way to express feelings—lowering anxiety and defensiveness.
-*   **Massage:** Provides deep pressure input, which is known to help with sensory processing issues.
+* **Acupuncture/massage:** Might stimulate nerves, change brain network activity, or increase blood flow.
+* **Music/art:** Give kids a nonverbal way to express feelings—lowering anxiety and defensiveness.
+* **Massage:** Provides deep pressure input, which is known to help with sensory processing issues.
 
 None of this is proven in big studies—but the mechanisms are plausible.
 
@@ -106,9 +109,9 @@ Not formal training—just a one-page handout showing a couple of simple techniq
 
 ### 2. A "Five Elements" Music Playlist
 I could put together a few short playlists on Spotify or Apple Music:
-*   "Calm & Grounded" (earth tone music)
-*   "Gentle & Flowing" (wood tone)
-*   "Joyful & Bright" (fire tone)
+* "Calm & Grounded" (earth tone music)
+* "Gentle & Flowing" (wood tone)
+* "Joyful & Bright" (fire tone)
 
 Label them with simple emojis or colors. Let kids pick what they want to listen to during quiet time, art, or sensory breaks. See if certain kids consistently prefer certain types—and if it helps them settle.
 

@@ -7,8 +7,11 @@ permalink: /research/john-locke-cte/
   <div style="font-size: 1.8em; font-weight: bold; color: #333; line-height: 1.4; margin-bottom: 20px;">
     CTE proves why we care about our bodies after death
   </div>
+  <div style="font-size: 1.1em; color: #555; margin-bottom: 5px;">
+    <strong>Laney Xu</strong>
+  </div>
   <div style="font-size: 1.1em; color: #555;">
-    By Laney Xu · John Locke Institute Essay Competition - Commendation · April 23, 2026
+    John Locke Institute Essay Competition - Commendation · April 23, 2026
   </div>
 </div>
 

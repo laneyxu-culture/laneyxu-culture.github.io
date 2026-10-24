@@ -7,8 +7,11 @@ permalink: /research/ai-education-decision-making/
   <div style="font-size: 1.8em; font-weight: bold; color: #333; line-height: 1.4; margin-bottom: 20px;">
     Artificial Intelligence’s effect on users’ decision-making and attitudes in the education system
   </div>
+  <div style="font-size: 1.1em; color: #555; margin-bottom: 5px;">
+    <strong>Laney Xu</strong>
+  </div>
   <div style="font-size: 1.1em; color: #555;">
-    By Laney Xu · March 18, 2026
+    March 18, 2026
   </div>
 </div>
 
@@ -20,7 +23,7 @@ Yet, AI, when thoughtfully integrated into curriculum and assessments, can bring
 
 Therefore, the influence of AI chatbots on student decision-making and attitudes toward learning depends less on the technology itself and more on how institutions adapted it to the system. While students' deep reliance on AI can weaken independent thinking and academic integrity, structured use of AI can in fact enhance learning by providing a more personalized experience, expanding access to educational support and prepare students for a new labor market. Ultimately, the central challenge modern education is facing is not whether AI should exist in classrooms, but how it should to corporate in ways that will benefit human intellectual development.
 
-### The Integrity Crisis
+## The Integrity Crisis
 
 When ChatGPT was launched in late 2022, students worldwide immediately “seized the opportunity”. By simply typing in a prompt, the chatbot could respond with a multi-page essay that could trick most teachers (Historic Worlds Events). Within months, along with the further development of the chatbot, cheating using ChatGPT erupted across schools and universities. Professor Brian Green, from Santa Clara University noticed ironically that one of his students was caught using ChatGPT to write an essay for an ethics course. According to the professor, this was not too hard to spot since the essay had “a robotic feel” (The Week). The scale of the problem became more apparent. By March 2023, a survey of 1,000 undergraduate and graduate students reported that half the population admitted to using AI on assignments or take-home exams, with 17 percent admitting they had turned in assignments completely researched and written by AI (The Week). Till this day the number is still continuously rising, a more recent report from College Board survey indicates that the percentage of high school students who report using GenAI tools for schoolwork is growing, increasing from 79% to 84% between January and May 2025 (College Board).
 
@@ -30,7 +33,7 @@ This detection crisis places a huge burden on educators. Teachers must commit ad
 
 This crisis also reveals flaws about traditional assessment models. Students tend to use more AI tools on after-school assignments. Since these times are harder for schools and teachers to regulate, and by taking this "short cut", students can finish work using shorter periods of time, ultimately saving up more personal time for relaxation. Asking students to complete certain assignments in classrooms that block AI technologies, like in class essays, can be a good way to force students into thinking on their own and exercising their critical thinking skills. The challenge then is not simply to catch cheaters but also redesign assessment for an AI-integrated world. This might include more in-class writing, oral presentations, and process portfolios showing drafts and progress. These activities are often more effective for the development of crucial skills for students than stereotypical classwork. By creating more interesting and engaging assessments, and helping students see the purpose of each assignment, more students will be willing to do the work by themselves. With the development of AI, repeated work in workplace will be easily replaced, students now need to learn the abilities AI do not have: creation and imagination. AI has not destroyed academic integrity; it has revealed that some forms of assessment were never truly measuring integrity in the first place.
 
-### Democratizes Learning Access
+## Democratizes Learning Access
 
 The emergence and wide application of AI indeed brings risks to the education system, but its potential to transform learning for the better should not be neglected. For decades, educators have sought to provide an visualized instruction that adapts to each student's special needs, but the reality of the large class has made this goal almost improbable. The emergence of AI in the educational system changes that status quo, when thoughtfully integrated AI can be a great tool for personal learning, acting as a 24/7 tutor available to every student regardless of their geography or family background (Khan).
 
@@ -40,13 +43,13 @@ The benefits extend beyond traditional academics. For language learners, AI powe
 
 Importantly, personalized AI support does not replace teachers, it shifts their role. Teachers freed from repetitive tasks of explaining basic to students can now focus on higher value interactions: starting discussions, mentoring struggling students, and enhancing their teaching skills (Evans). The goal is not to have AI Replace teachers but AI and human teachers cooperating. As Luckin emphasizes, "We do not see a future in which AIEd replaces teachers. What we do see is a future in which the extraordinary expertise o teachers is better leverages and augmented through thoughtful deployment of well-designed AIEd" (Luckin). In an education system facing teacher shortages and achievement gaps AI offers a probable path toward equity that was previously unimaginable.
 
-### Reliability issues
+## Reliability issues
 
 The same qualities that make AI chatbots appear intelligent also make them dangerous. AI generates responses that sound authoritative and convincing due to their fluency even when they are completely wrong. Unlike a search engine that retrieves information from existing web pages, generative AI creates new test by predicting which words should statistically follow previous words based on patterns in its training data (University of Illinois). The model prioritized fluent, plausible sounding responses over accurate ones, making it natural for generative AI to provide false information (Altman, 2025). This is particularly problematic for adolescents. Students who are still developing metacognitive skills lack the background knowledge to distinguish fact from fiction. This makes them a easy victim for AI misinformation. In order to make themselves sound credible, generative AIs can even make up events, books and people to support their false arguments, making it even hard for professionals. In spring 2023, a group of lawyers submitted a legal brief written by ChatGPT, only to have the judge discover it was full of made-up citations and even made-up cases (Historic World Events). If legal professionals can be fooled, students will become even more vulnerable.
 
 However, this vulnerability points toward a solution. Rather than shielding students from AI's unreliability, educators can use it as training for critical thinking. Teaching students to check credibility of AI responses develops the exact skills they need in modern world: media literacy, source evaluation and skepticism. When students acknowledge that AI can be confidently wrong, they begin to approach all information with critical views. As Chu and colleagues argue, AI literacy must include understanding of how AI works and practicing verification methods (Zhai & Chu). In this sense, AI flaws become opportunities, transforming reliability problems into daily practice.
 
-### Adaptation
+## Adaptation
 
 Integrating AI into education is inevitable, a trend can be seen in the integration of AI in applications like Snapchat, Instagram and study tools like Duolingo and Quizlet (Berg). Most importantly, integration of AI into the educational system prepares students for inevitable technological transformation and develops skills essential for navigating an unpredictable job market.
 
