@@ -36,7 +36,26 @@ title: "Culture Lab"
 </div>
 
 
-### 🔬 Research Reports (Coming Soon)
+### 🔬 ### 🔬 Research Reports
+
+<div style="display: grid; gap: 20px; margin: 30px 0;">
+
+  <a href="/culture-lab/research/embodied-cognition-festival-pilot/" style="text-decoration: none; color: inherit;">
+    <div style="background: white; border: 2px solid #B22222; border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(178, 34, 34, 0.15);">
+      <h4 style="color: #B22222; margin: 0 0 10px; font-size: 1.25em;">
+        Exploring Embodied Cognition and Procedural Learning in a Cross-Cultural Festival Setting: A Pilot Observational Study
+      </h4>
+      <p style="color: #555; margin: 0 0 6px;">
+        Laney Xu · Feb. 2026
+      </p>
+      <p style="color: #555; margin: 0 0 12px;">
+        A pilot observational study of hands-on cultural activities at a Spring Festival Fair, examining embodied cognition, procedural learning, and enclothed cognition.
+      </p>
+      <span style="color: #B22222; font-weight: 600;">Read report →</span>
+    </div>
+  </a>
+
+</div>
 
 
 
