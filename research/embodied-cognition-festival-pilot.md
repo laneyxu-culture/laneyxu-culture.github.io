@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Exploring Embodied Cognition and Procedural Learning in a Cross-Cultural Festival Setting: A Pilot Observational Study"
 permalink: /culture-lab/research/embodied-cognition-festival-pilot/
 ---
+
+<h2>Exploring Embodied Cognition and Procedural Learning in a Cross-Cultural Festival Setting: A Pilot Observational Study</h2>
 
 **Laney Xu, Grade 11, St. Francis High School**  
 **Feb. 2026**
