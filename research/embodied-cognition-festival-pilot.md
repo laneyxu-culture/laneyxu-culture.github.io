@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Exploring Embodied Cognition and Procedural Learning in a Cross-Cultural Festival Setting: A Pilot Observational Study"
-hide_title: true
 permalink: /culture-lab/research/embodied-cognition-festival-pilot/
 ---
 
