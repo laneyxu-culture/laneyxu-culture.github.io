@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Artificial Intelligence’s effect on users’ decision-making and attitudes in the education system"
 permalink: /research/ai-education-decision-making/
 ---
 

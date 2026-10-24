@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Exploring Complementary Approaches: What Traditional Chinese Practices Might Offer at Little Friends"
 permalink: /research/tcm-little-friends/
 ---
 

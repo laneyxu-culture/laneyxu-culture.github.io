@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "CTE proves why we care about our bodies after death"
 permalink: /research/john-locke-cte/
 ---
 
