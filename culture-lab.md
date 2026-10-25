@@ -36,7 +36,7 @@ title: "Culture Lab"
 </div>
 
 
-### 🔬 ### 🔬 Research Reports
+### 🔬 Research Reports
 
 <div style="display: grid; gap: 20px; margin: 30px 0;">
 
