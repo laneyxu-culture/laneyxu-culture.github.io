@@ -61,3 +61,6 @@ collections:
   photo_albums:
     output: true
     permalink: /activities/photos/:title
+  stories:
+    output: true
+    permalink: /exchange-stories/:name/
