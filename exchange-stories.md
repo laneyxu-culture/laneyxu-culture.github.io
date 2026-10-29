@@ -41,4 +41,15 @@ title: "Exchange Stories"
 
 ## 📖 Stories from 303 Days
 
-*Coming soon — I'll be sharing selected stories from my exchange year in Oregon.*
+*303 天，6 个片段。中文原文，英文机器翻译，仅供参考。*
+
+{% assign stories = site.stories | sort: "order" %}
+{% for s in stories %}
+<div style="background:#fff; border:2px solid #B22222; border-radius:16px; padding:20px; margin:20px 0; box-shadow:0 4px 8px rgba(178,34,34,.1);">
+  <a href="{{ s.url }}" style="text-decoration:none; color:inherit;">
+    <h3 style="color:#B22222; margin:0 0 6px 0;">{{ s.title }}</h3>
+    <p style="color:#777; margin:4px 0; font-size:0.9em;">{{ s.date | date: "%Y-%m-%d" }}</p>
+    {% if s.title_en %}<p style="color:#999; font-style:italic; margin:4px 0 0 0;">{{ s.title_en }}</p>{% endif %}
+  </a>
+</div>
+{% endfor %}
