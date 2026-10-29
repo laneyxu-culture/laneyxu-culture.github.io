@@ -41,7 +41,7 @@ title: "Exchange Stories"
 
 ## 📖 Stories from 303 Days
 
-*303 天，6 个片段。中文原文，英文机器翻译，仅供参考。*
+*303 days, 6 moments. Chinese original text, English machine-translated for reference only.*
 
 {% assign stories = site.stories | sort: "order" %}
 {% for s in stories %}
