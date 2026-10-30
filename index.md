@@ -68,15 +68,15 @@ hide_title: true
 
 </div>
 
-<!-- 页脚联系方式 -->
-<div style="text-align: center; margin: 30px 0; color: #555;">
-  📧 inesqiaojia@gmail.com
+<!-- 页脚联系方式及访问量统计 -->
+<div style="text-align: center; margin: 40px 0; color: #555;">
+  <p style="margin-bottom: 15px;">📧 inesqiaojia@gmail.com</p>
 
-<!-- 引入不蒜子脚本 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- 引入不蒜子脚本 (添加了 https 协议，更稳定) -->
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!-- 显示总访问量 -->
-<span id="busuanzi_container_site_pv">
-    🌍 <span id="busuanzi_value_site_pv"></span> visits
-</span>
+  <!-- 显示总访问量 (加了 --- 作为加载时的占位符) -->
+  <span id="busuanzi_container_site_pv" style="font-size: 0.9em; color: #888;">
+      🌍 <span id="busuanzi_value_site_pv">---</span> visits
+  </span>
 </div>
