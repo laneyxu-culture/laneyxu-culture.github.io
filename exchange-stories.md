@@ -33,7 +33,8 @@ title: "Exchange Stories"
 
 ## 📖 Stories from 303 Days
 
-*303 days, 6 moments. Chinese original text, English machine-translated for reference only.*
+*303 days, beautiful moments. Updates ongoing.
+Chinese original text, English machine-translated for reference only.*
 
 {% assign stories = site.stories | sort: "order" %}
 {% for s in stories %}
