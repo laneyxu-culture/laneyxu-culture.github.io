@@ -45,6 +45,46 @@ permalink: /my-research/
 
 </div>
 
+### 📊 Data Analysis Reports
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+
+  <!-- Experiment 1: Data Preprocessing -->
+  <div style="flex: 0 1 380px; background: white; border: 2px solid #B22222; border-radius: 16px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column;">
+
+    <h4 style="color: #B22222; margin-top: 0; margin-bottom: 10px;">
+      Experiment 1 — Data Preprocessing (Online vs. Offline)
+    </h4>
+
+    <p style="color: #555; font-size: 0.95em; margin-bottom: 12px;">
+      Data merging, attention checks, wide-format conversion, and ANOVA / SAQ regression results across online, offline, and combined samples.
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px;">
+      <span style="font-size: 0.75em; padding: 3px 10px; background: #fbeaea; color: #B22222; border-radius: 999px;">R Markdown</span>
+      <span style="font-size: 0.75em; padding: 3px 10px; background: #fbeaea; color: #B22222; border-radius: 999px;">Preprocessing</span>
+      <span style="font-size: 0.75em; padding: 3px 10px; background: #fbeaea; color: #B22222; border-radius: 999px;">ANOVA</span>
+      <span style="font-size: 0.75em; padding: 3px 10px; background: #fbeaea; color: #B22222; border-radius: 999px;">Regression</span>
+    </div>
+
+    <div style="margin-top: auto; display: flex; flex-wrap: wrap; gap: 10px;">
+      <!-- 这里的路径已更新为你的新文件名 -->
+      <a href="/research/exp1_preprocessing.html"
+         target="_blank" rel="noopener"
+         style="display: inline-block; padding: 8px 16px; background: #B22222; color: white; text-decoration: none; border-radius: 22px; font-size: 0.9em; font-weight: 600;">
+        View Report
+      </a>
+      <a href="/research/exp1_preprocessing.html"
+         download="Experiment1_Preprocessing_Report.html"
+         style="display: inline-block; padding: 8px 16px; background: white; color: #B22222; border: 1.5px solid #B22222; text-decoration: none; border-radius: 22px; font-size: 0.9em; font-weight: 600;">
+        Download HTML
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
 ### 📄 Handouts & Visuals
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
