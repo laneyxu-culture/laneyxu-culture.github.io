@@ -68,16 +68,16 @@ permalink: /my-research/
     </div>
 
     <div style="margin-top: auto; display: flex; flex-wrap: wrap; gap: 10px;">
-      <!-- 这里的路径已更新为你的新文件名 -->
-      <a href="/research/exp1_preprocessing.html"
+      <!-- 已修改为指向 .pdf 文件 -->
+      <a href="/research/exp1_preprocessing.pdf"
          target="_blank" rel="noopener"
          style="display: inline-block; padding: 8px 16px; background: #B22222; color: white; text-decoration: none; border-radius: 22px; font-size: 0.9em; font-weight: 600;">
         View Report
       </a>
-      <a href="/research/exp1_preprocessing.html"
-         download="Experiment1_Preprocessing_Report.html"
+      <a href="/research/exp1_preprocessing.pdf"
+         download="Experiment1_Preprocessing_Report.pdf"
          style="display: inline-block; padding: 8px 16px; background: white; color: #B22222; border: 1.5px solid #B22222; text-decoration: none; border-radius: 22px; font-size: 0.9em; font-weight: 600;">
-        Download HTML
+        Download PDF
       </a>
     </div>
 
