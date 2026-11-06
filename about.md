@@ -5,17 +5,17 @@ title: "About"
 
 # About Me
 
-I'm Laney Xu, a high school student passionate about psychology, history and cultural exchange.
+I'm Laney Xu, a high school student passionate about psychology, cognitive science, Asian studies, history and cultural exchange.
 
 ## My Journey
 
-I've been sharing Chinese culture since elementary school — with students in the US, Australia, Spain, and Mexico. 
+I've been sharing Chinese culture since elementary school — with students in the U.S., Australia, Spain, and Mexico. 
 
 I was a freshman in **the High School Affiliated to Beijing Normal University** in China, and hosted a delegation of Niles North High School, Niles West High School (IL).
 
 During my exchange year at **Elgin High School** in Oregon, I started the school's first Chinese Culture Club.
 
-Now at **St. Francis High School** in Illinois, I'm an active member of Chinese Culture Club.
+Now at **St. Francis High School** in Illinois, I'm an active core member of the Chinese Culture Club. I launched the first Lunar New Year Fair at school and led lecture sessions.
 
 ## Why This Website
 
