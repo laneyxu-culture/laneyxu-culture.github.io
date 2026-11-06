@@ -3,13 +3,27 @@ layout: page
 title: "About"
 ---
 
-# About Me
+<div style="display: flex; align-items: flex-start; gap: 40px; margin-top: 20px; margin-bottom: 40px; flex-wrap: wrap;">
+  
+  <!-- 照片模块 -->
+  <div style="flex: 0 0 220px; text-align: center;">
+    <!-- 请确保照片已放在 assets/img/ 文件夹下，并修改下面的文件名 -->
+    <img src="/assets/img/profile.jpg" alt="Laney Xu" style="width: 220px; height: auto; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); object-fit: cover;">
+  </div>
 
-I'm Laney Xu, a high school student passionate about psychology, cognitive science, Asian studies, history and cultural exchange.
+  <!-- 文字介绍模块 -->
+  <div style="flex: 1; min-width: 300px;">
+    <h1 style="margin-top: 0;">About Me</h1>
+    <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+      I'm Laney Xu, a high school student passionate about psychology, cognitive science, Asian studies, history and cultural exchange.
+    </p>
+  </div>
+
+</div>
 
 ## My Journey
 
-I've been sharing Chinese culture since elementary school — with students in the U.S., Australia, Spain, and Mexico. 
+I've been sharing Chinese culture since elementary school—with students in the U.S., Australia, Spain, Costa Rica and Mexico. 
 
 I was a freshman in **the High School Affiliated to Beijing Normal University** in China, and hosted a delegation of Niles North High School, Niles West High School (IL).
 
@@ -20,8 +34,9 @@ Now at **St. Francis High School** in Illinois, I'm an active core member of the
 ## Why This Website
 
 This site is a space to share:
-- Activities and materials from our club
+- Activities and materials from Chinese Culture Club
 - Psychology projects from Culture Lab
+- Data analysis reports from a computational cognitive science lab
 - Stories from my exchange year
 
 ---
