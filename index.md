@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chinese Culture Club@SFHS"
+title: "Chinese Culture Club"
 hide_title: true
 ---
 
