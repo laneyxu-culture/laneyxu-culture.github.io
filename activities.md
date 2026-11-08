@@ -39,7 +39,6 @@ title: "Activities"
   <button onclick="showTab('photos')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">📸 Photos</button>
   <button onclick="showTab('ppts')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">📄 Activity PPTs</button>
   
-  <!-- 新增的导航按钮 -->
   <button onclick="showTab('festivals')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">🏮 Chinese Festivals</button>
   <button onclick="showTab('solar_terms')" style="background: #f0f0f0; color: #B22222; border: none; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 500; font-size: 1em;">🌿 Solar Terms</button>
 </div>
@@ -96,72 +95,73 @@ title: "Activities"
 
 <!-- ================= 新增内容区域 ================= -->
 
-<!-- Chinese Festivals 内容区域 (共 16 张图片) -->
+<!-- Chinese Festivals 内容区域 (已改为 4 列布局) -->
 <div id="festivals" class="tab-content" style="display: none;">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+  <!-- 修改了这里：repeat(4, 1fr) -->
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0;">
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/01chuxi.jpg" alt="Chinese New Year's Eve" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Chinese New Year's Eve (除夕)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Chinese New Year's Eve (除夕)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/02chuyi.jpg" alt="Chinese New Year's Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Chinese New Year's Day (初一)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Chinese New Year's Day (初一)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/03chuer.jpg" alt="Second Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Second Day of CNY (初二)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Second Day of CNY (初二)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/04chusan.jpg" alt="Third Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Third Day of CNY (初三)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Third Day of CNY (初三)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/05chusi.jpg" alt="Fourth Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Fourth Day of CNY (初四)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Fourth Day of CNY (初四)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/06chuwu.jpg" alt="Fifth Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Fifth Day of CNY (初五)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Fifth Day of CNY (初五)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/07chuliu.jpg" alt="Sixth Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Sixth Day of CNY (初六)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Sixth Day of CNY (初六)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/08chuqi.jpg" alt="Seventh Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Seventh Day of CNY (初七)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Seventh Day of CNY (初七)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/09chuba.jpg" alt="Eighth Day of CNY" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Eighth Day of CNY (初八)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Eighth Day of CNY (初八)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/10yuanxiao.jpg" alt="Lantern Festival" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Lantern Festival (元宵节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Lantern Festival (元宵节)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/chongyang.jpg" alt="Double Ninth Festival" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Double Ninth Festival (重阳节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Double Ninth Festival (重阳节)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/duanwu.jpg" alt="Dragon Boat Festival" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Dragon Boat Festival (端午节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Dragon Boat Festival (端午节)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/guoqing.jpg" alt="National Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">National Day (国庆节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">National Day (国庆节)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/qixi.jpg" alt="Qixi Festival" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Qixi Festival (七夕节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Qixi Festival (七夕节)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/yuandan.jpg" alt="New Year's Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">New Year's Day (元旦)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">New Year's Day (元旦)</p>
     </div>
     <div style="text-align: center;">
       <img src="/assets/img/activities/festivals/zhongqiu.jpg" alt="Mid-Autumn Festival" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; color: #8B4513; font-weight: 500;">Mid-Autumn Festival (中秋节)</p>
+      <p style="margin-top: 10px; color: #8B4513; font-weight: 500; font-size: 0.9em;">Mid-Autumn Festival (中秋节)</p>
     </div>
   </div>
 </div>
@@ -272,22 +272,22 @@ document.addEventListener('DOMContentLoaded', function() {
   var lightbox = document.getElementById('lightbox');
   var lightboxImg = document.getElementById('lightbox-img');
 
-  // 核心修改：抓取所有 tab-content 区域内的图片（涵盖 Posters, Photos, Festivals, Solar Terms）
+  // 抓取所有 tab-content 区域内的图片
   var images = document.querySelectorAll('.tab-content img');
 
   // 为找到的每张图片添加点击事件
   images.forEach(function(img) {
     // 自动给图片添加鼠标“放大镜”指针样式
     img.style.cursor = 'zoom-in';
-    // 增加一个轻微的悬浮动画效果（可选）
+    // 增加一个轻微的悬浮动画效果
     img.addEventListener('mouseenter', function() { this.style.opacity = '0.8'; this.style.transition = '0.3s'; });
     img.addEventListener('mouseleave', function() { this.style.opacity = '1'; });
 
     img.addEventListener('click', function(e) {
-      e.stopPropagation(); // 阻止冒泡
-      lightbox.style.display = 'flex'; // 显示弹窗
-      lightboxImg.src = this.src;      // 将图片地址赋予弹窗
-      document.body.style.overflow = 'hidden'; // 锁定背景页面，防止滚动
+      e.stopPropagation(); 
+      lightbox.style.display = 'flex';
+      lightboxImg.src = this.src;
+      document.body.style.overflow = 'hidden'; // 锁定背景页面
     });
   });
 
@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded', function() {
   lightbox.addEventListener('click', function(e) {
     if (e.target !== lightboxImg || e.target.textContent === '×') {
       lightbox.style.display = 'none';
-      document.body.style.overflow = 'auto'; // 恢复背景页面滚动
+      document.body.style.overflow = 'auto'; // 恢复背景页面
     }
   });
 });
