@@ -15,7 +15,7 @@ title: "About"
   <div style="flex: 1; min-width: 300px;">
     <h1 style="margin-top: 0;">About Me</h1>
     <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
-      I'm Laney Xu, a high school student passionate about psychology, cognitive science, Asian studies, history and cultural exchange.
+      I'm Laney Xu, a high school student passionate about psychology, cognitive science, Asian studies, and cultural exchange. Outside of school, I am a big history nerd and truly enjoys reading historical records and analyzing historical figures. In addition, I also participate in sports like track and tennis as well as theatre. 
     </p>
   </div>
 
@@ -25,7 +25,7 @@ title: "About"
 
 I've been sharing Chinese culture since elementary school—with students in the U.S., Australia, Spain, Costa Rica and Mexico. 
 
-I was a freshman in **the High School Affiliated to Beijing Normal University** in China, and hosted a delegation of Niles North High School, Niles West High School (IL).
+I was a freshman in **the High School Affiliated to Beijing Normal University** in China, and hosted a cultural exchange orientation for Niles North High School and Niles West High School (IL).
 
 During my exchange year at **Elgin High School** in Oregon, I started the school's first Chinese Culture Club.
 
