@@ -10,4 +10,5 @@ photos:
   - "/assets/img/activities/spring-3.jpg"
   - "/assets/img/activities/spring-4.jpg"
   - "/assets/img/activities/spring-5.jpg"
+  - "/assets/img/activities/spring-6.jpg"
 ---
